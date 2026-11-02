@@ -33,6 +33,7 @@ For inspiration:
 
 ## Evaluation Criteria
 
+* Project Statement: What makes your language or its implementation unique/interesting/excitement
 * Universality (Turing Completeness)
 * Sample programs (including factorial, but not limited to it)
 * Originality and beauty of syntax
@@ -51,6 +52,16 @@ In the documentation, explicitly list which language features you implemented:
 * [ ] Library functions: file input/output
 * [ ] Lists / Sequences
 * [ ] Library functions: lists/sequences
+
+## Project Statement
+
+An important part of the project is this project statement. Your goal is to invent a language and implement it in such a way that it would be original and exciting, making it different from standard tutorials on the internet, or the average implementation that a coding agent will create. Please describe why your project is interesting, how it differs from "average" implementation, and what are you especially proud of.
+
+## Use of Generative AI
+
+You may or may not chose to use generative AI for implementation of your programming language. If you chose to use generative AI, you need to explicitly describe the process of using it: which prompts you were using, which tests suites you developed and how, did you use side-by-side documentation, etc. Also, even when using generative AI, it is your responsibility to ensure that project code is purely functional. 
+
+> Using generative AI without explicitly indicating so is a violation of academic principles.
 
 ## Repository
 
@@ -75,4 +86,3 @@ Name | Role in Project
 ------------------|---------------------
 ... | ...
 
-> If you use generative AI when writing this code (ChatGPT, GitHub Copilot, etc.), you must mention this here and briefly describe the details of generative AI usage and how it improved your productivity. *Using generative AI without explicit mention is a violation of academic ethics!*
