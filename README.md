@@ -4,8 +4,8 @@ The goal of this homework is to invent your own functional programming language 
 
 You can complete this laboratory work in a group of 2 or 3 people (or more - but this requires instructor's approval):
 
-* 2 people - compiler/interpreter + example programs + brief documentation in README.md (you can replace this file with your own documentation)
-* 3 people - compiler/interpreter + example programs + more detailed documentation on GitHub Pages
+* 1-2 people - compiler/interpreter + example programs + brief documentation in README.md (you can replace this file with your own documentation)
+* 2-3 people - compiler/interpreter + example programs + more detailed documentation on GitHub Pages
 * 3 or more people - in addition to the above, may include the following:
   - IDE in browser
   - Jupyter Notebook support
